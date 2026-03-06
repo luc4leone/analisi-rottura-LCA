@@ -1,6 +1,6 @@
 
 
-## ricostruzione del LCA pediatrica usando la fascia ileotibiale come autotrapianto.
+## Ricostruzione del LCA nel bambino usando la fascia ileotibiale come autotrapianto.
 
 Si preleva una striscia della fascia ileotibiale dalla parte esterna della coscia.
 
@@ -9,7 +9,7 @@ A seconda della tecnica specifica, il chirurgo può:
 1) farla passare con un percorso che stabilizza il ginocchio senza fare i classici tunnel “da adulto” che attraversano le fisi, oppure 
 2) con tunnel molto mirati/limitati.
 
-## nell'adulto
+## L'operazione nell'adulto
 
 **Ricostruzione**: il LCA rotto non viene semplicemente “ricucito” nella maggior parte dei casi; viene invece sostituito con un innesto che farà da “nuovo legamento”.
 
