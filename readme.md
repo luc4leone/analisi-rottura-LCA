@@ -25,7 +25,7 @@ Si preleva una striscia della **fascia ileotibiale** dalla parte esterna della c
 
 A seconda della tecnica specifica, il chirurgo può:
 
-1) farla passare con un percorso che stabilizza il ginocchio senza fare i classici tunnel “da adulto” che attraversano le fisi
+1) farla passare con un percorso che stabilizza il ginocchio senza fare i classici tunnel “da adulto” che attraversano le fisi (_per me questa è l'opzione che ha scelto Bigoni, lo deduco dal fatto che ha detto che taglia solo la parte destra della gamba; se fissasse l'innesto con tunnel attraverso le fisi, o vicino alle fisi, dovrebbe tagliare anche la parte sinistra_)
 2) oppure con tunnel molto mirati/limitati.
 
 ## Domande per Bigoni
