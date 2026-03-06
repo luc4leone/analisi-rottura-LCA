@@ -19,6 +19,7 @@ A 9 anni quasi sempre le cartilagini di accrescimento (fisi) di femore e tibia s
 
 - disturbi di crescita (differenza di lunghezza degli arti)
 - deformità angolari (varo/valgo)
+
 Quindi l’obiettivo diventa: stabilizzare il ginocchio proteggendo le fisi.
 
 Si preleva una striscia della **fascia ileotibiale** dalla parte esterna della coscia.
