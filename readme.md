@@ -1,19 +1,39 @@
-
-
-## Ricostruzione del LCA nel bambino usando la fascia ileotibiale come autotrapianto.
-
-Si preleva una striscia della fascia ileotibiale dalla parte esterna della coscia.
-
-A seconda della tecnica specifica, il chirurgo può:
-
-1) farla passare con un percorso che stabilizza il ginocchio senza fare i classici tunnel “da adulto” che attraversano le fisi, oppure 
-2) con tunnel molto mirati/limitati.
+# Operazione per ricostruzione del Legamento Crociato Anteriore (LCA)
 
 ## L'operazione nell'adulto
 
 **Ricostruzione**: il LCA rotto non viene semplicemente “ricucito” nella maggior parte dei casi; viene invece sostituito con un innesto che farà da “nuovo legamento”.
 
 **Tecnica**: in artroscopia si preparano dei tunnel ossei (femore/tibia) e si fissa l’innesto con dispositivi dedicati (viti, bottoni corticali, ecc.), con varianti tecniche a seconda del chirurgo.
+
+### Mini-schema mentale (molto semplificato)
+
+- Tibia: tunnel → entra l’innesto
+- Articolazione: l’innesto attraversa lo spazio dove stava il LCA
+- Femore: tunnel → l’innesto entra e viene ancorato
+- Fissaggio: un “ancoraggio” lato femore + uno lato tibia
+
+## Ricostruzione del LCA nel bambino usando la fascia ileotibiale come autotrapianto.
+
+A 9 anni quasi sempre le cartilagini di accrescimento (fisi) di femore e tibia sono ancora aperte. Questo cambia molto la strategia chirurgica, perché i classici “tunnel ossei” e alcuni tipi di fissaggio, se attraversano o danneggiano la fisi, possono (raramente ma seriamente) causare:
+
+- disturbi di crescita (differenza di lunghezza degli arti)
+- deformità angolari (varo/valgo)
+Quindi l’obiettivo diventa: stabilizzare il ginocchio proteggendo le fisi.
+
+Si preleva una striscia della **fascia ileotibiale** dalla parte esterna della coscia.
+
+A seconda della tecnica specifica, il chirurgo può:
+
+1) farla passare con un percorso che stabilizza il ginocchio senza fare i classici tunnel “da adulto” che attraversano le fisi
+2) oppure con tunnel molto mirati/limitati.
+
+## Domande per Bigoni
+
+1. come ancori l'innesto?
+2. quali sono i rischi dell'operazione?
+3. hai dei numeri su tassi di successo dell'operazione?
+
 
 ## CV Marco Bigoni
 
