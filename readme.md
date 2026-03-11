@@ -2,7 +2,7 @@
 
 ## Conversazione con Claude (11 marzo 2026)
 
-Ref: [text](https://claude.ai/chat/b46171b5-e6ee-44e1-a296-4d8a7769b3fd)
+Ref: [chat](https://claude.ai/chat/b46171b5-e6ee-44e1-a296-4d8a7769b3fd)
 
 > mio figlio di 10 anni si è rotto il legamento crociato anteriore sciando. l'ho portato da 2 ortopedici. uno è favorevole all'operazione di riscostruzione. l'altro invece dice che è meglio aspettare qualche anno. 
 
