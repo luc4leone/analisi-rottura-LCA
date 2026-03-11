@@ -1,5 +1,11 @@
 # Operazione per ricostruzione del Legamento Crociato Anteriore (LCA)
 
+## Conclusioni preliminari
+
+- nella conversazione con Claude si è capito che la letteratura internazionale è abbastanza convergente sul fatto che l'intervento precoce è preferibile, per evitare danni al menisco e alla cartilagine
+- il rischio di toccare la cartilagine è nullo con la tecnica di Bigoni e questo è un punto forte della tecnica e riduce in pratica a zero il rischio + grave: gambe che si sviluppano in modo diverso
+- DA APPROFONDIRE: la tecnica di Bigoni non ricostruisce il legamento seguendo il percorso naturale del LCA; questo implica che il legamento potrebbe non funzionare come quello naturale, in particolare in termini di controllo rotazionale (che nello sci è importante)
+
 ## Conversazione con Claude (11 marzo 2026)
 
 Ref: [chat](https://claude.ai/chat/b46171b5-e6ee-44e1-a296-4d8a7769b3fd)
